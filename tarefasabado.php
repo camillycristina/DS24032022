@@ -24,8 +24,9 @@ switch($op){
         break;
 
     default:
-    echo $valor1;
-    echo $valor2;
+    
+    echo "operação invalida";
+    
     break;
 }
 ?>
